@@ -24,5 +24,7 @@
     <a href="https://velog.io/@wda021212" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white"/></a>
     <a href="https://twitter.com/yumyum12421" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white"/></a>
 </div>
-<h3 align="center"> 🏆 Baekjoon Tier🏆  </h3>
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=wda021212)](https://solved.ac/wda021212)
+<h3 align="center"> ✨ GitHub stats ✨ </h3>
+![jym1212's GitHub stats](https://github-readme-stats.vercel.app/api?username=jym1212&show_icons=true&theme=transparent) 
+<h3 align="center"> 🏆 Baekjoon Tier 🏆 </h3>
+![Solved.ac Profile][(http://mazassumnida.wtf/api/generate_badge?boj=wda021212)](https://solved.ac/wda021212)
