@@ -22,5 +22,4 @@
 <div align="center">
     <a href="wda021212@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white"/></a>
     <a href="https://velog.io/@wda021212" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white"/></a>
-    <a href="https://twitter.com/yumyum12421" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white"/></a>
 </div>
