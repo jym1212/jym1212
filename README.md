@@ -15,7 +15,6 @@
     <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat&logo=Visual Studio&logoColor=white">
     <img src="https://img.shields.io/badge/Visual Studio Code-1AB7EA?style=flat&logo=Visual Studio Code&logoColor=white">
     <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat&logo=Android Studio&logoColor=white">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white">
 </div> 
 <h3 align="center"> ️✉ SNS & Protfolio ✉ </h3>
 <div align="center">
