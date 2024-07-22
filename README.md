@@ -12,6 +12,6 @@
 </div>
 <h3 align="left"> ️✉ SNS ✉ </h3>
 <div align="left">
-    <a href="wda021212@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white"/></a>
+    <a href="wda021212@gmail.com" target="_blank"><img src="https://img.shields.io/badge/wda021212@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=white"/></a>
     <a href="https://velog.io/@wda021212" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white"/></a>
 </div>
